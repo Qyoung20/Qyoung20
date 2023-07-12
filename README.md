@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Qyoung20/Qyoung20/main/hand_wave.gif"width='40' align="left"/><h1>Hey there! I'm Quinton</h1>
+<img src="https://raw.githubusercontent.com/Qyoung20/Qyoung20/main/hand_wave.gif" width='40' align="left"/><h1>Hey there! I'm Quinton</h1>
 </div>
 
 
