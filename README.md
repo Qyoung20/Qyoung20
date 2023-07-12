@@ -1,7 +1,4 @@
-<p align="center">
-<div style="position: relative; width: 100%; height: 200px;">
-  <img src="https://raw.githubusercontent.com/Qyoung20/Qyoung20/main/purple.gif" style="width: 100%; height: 100%;">
-  <img src="https://raw.githubusercontent.com/Qyoung20/Qyoung20/main/name.png" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 20%;">
+<img src="https://raw.githubusercontent.com/Qyoung20/Qyoung20/main/hand_wave.gif"width='40' align="left"/><h1>Hey there! I'm Quinton</h1>
 </div>
 
 
